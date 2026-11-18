@@ -47,7 +47,7 @@ Provides a complete overview of grocery inventory operations.
 
 #### 📸 Dashboard Screenshot
 
-![Grocery Inventory Overview](Images/overview.png)
+![Grocery Inventory Overview](Images/Overview.png)
 
 ---
 
@@ -71,7 +71,7 @@ Analyzes sales trends, product pricing, and category-wise revenue.
 
 #### 📸 Dashboard Screenshot
 
-![Sales Performance Dashboard](Images/sales performance.png)
+![Sales Performance Dashboard](Images/Sales_performance.png)
 
 ---
 
@@ -95,7 +95,7 @@ Evaluates supplier performance, procurement spending, and stock reliability.
 
 #### 📸 Dashboard Screenshot
 
-![Supplier Analysis Dashboard](Images/supplier analysis.png)
+![Supplier Analysis Dashboard](Images/Supplier_analysis.png)
 
 ---
 
@@ -119,7 +119,7 @@ Analyzes inventory ageing, product movement, and warehouse stock distribution.
 
 #### 📸 Dashboard Screenshot
 
-![Product Lifecycle Dashboard](Images/product lifecycle.png)
+![Product Lifecycle Dashboard](Images/Product_lifecycle.png)
 
 ---
 
@@ -167,13 +167,14 @@ Grocery-Inventory-Management/
 │   ├── money-bags.png
 │   ├── packages.png
 │   ├── Shield.png
-│   └── Shopping_Cart.png
+│    Shopping_Cart.png
 │
 ├── Images/
-│   ├── overview.png
-│   ├── sales performance.png
-│   ├── supplier analysis.png
-│   └── product lifecycle.png
+│   ├── Overview.png
+│   ├── Product_lifecycle.png
+│   ├── Sales_performance.png
+│   └── Supplier_analysis.png
+
 ├── README.md
 ```
 
