@@ -71,7 +71,7 @@ Analyzes sales trends, product pricing, and category-wise revenue.
 
 #### 📸 Dashboard Screenshot
 
-![Sales Performance Dashboard](Images/sales_performance.png)
+![Sales Performance Dashboard](Images/sales performance.png)
 
 ---
 
@@ -95,7 +95,7 @@ Evaluates supplier performance, procurement spending, and stock reliability.
 
 #### 📸 Dashboard Screenshot
 
-![Supplier Analysis Dashboard](Images/supplier_analysis.png)
+![Supplier Analysis Dashboard](Images/supplier analysis.png)
 
 ---
 
@@ -119,7 +119,7 @@ Analyzes inventory ageing, product movement, and warehouse stock distribution.
 
 #### 📸 Dashboard Screenshot
 
-![Product Lifecycle Dashboard](Images/product_lifecycle.png)
+![Product Lifecycle Dashboard](Images/product lifecycle.png)
 
 ---
 
@@ -171,9 +171,9 @@ Grocery-Inventory-Management/
 │
 ├── Images/
 │   ├── overview.png
-│   ├── sales_performance.png
-│   ├── supplier_analysis.png
-│   └── product_lifecycle.png
+│   ├── sales performance.png
+│   ├── supplier analysis.png
+│   └── product lifecycle.png
 ├── README.md
 ```
 
