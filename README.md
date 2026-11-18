@@ -175,8 +175,6 @@ Grocery-Inventory-Management/
 │   ├── supplier_analysis.png
 │   └── product_lifecycle.png
 ├── README.md
-├── .gitignore
-└── LICENSE
 ```
 
 ## 🚀 Key Learnings
